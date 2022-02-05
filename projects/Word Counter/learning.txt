@@ -1,0 +1,1 @@
+read input from user and do some operations using filter

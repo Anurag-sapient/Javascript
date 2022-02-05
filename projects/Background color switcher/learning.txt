@@ -1,0 +1,2 @@
+for addeventlistener('click',funct(x))-- we should not do this as this is wrong and will automatically gets executed even without 
+triggering this
